@@ -2,10 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-### prueba  de  edicion  en gitHub
-
-## hola mundo en readme 
+## nuevos cambios de prueba
